@@ -22,7 +22,7 @@ const buttons = (props)=>{
                     {props.cta}
                 </Link>
             )
-            break;
+            break;  
         default:
             template=null;
     }
